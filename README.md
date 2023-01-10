@@ -11,7 +11,7 @@ This custom component gets raw drink water derectly from the Bottle using BLE AP
 The component can be used by copying everything under the `custom_components` folder to your `custom_component`. please follow the instrument on the HomeAssistant WebSite.
 
 ### Configure through integrations (prefered way)
-Check under configuration/integrations. Add the `Myfitnesspal` integration.
+Check under configuration/integrations. Add the `Huawei HAERS` integration.
 
 ### Configure with old school yaml
 Not supported

@@ -1,6 +1,6 @@
 {
   "domain": "huawei_hires",
-  "name": "HUawei HAERS",
+  "name": "Huawei HAERS",
   "config_flow": true,
   "documentation": "https://iceshadows.github.io/",
   "requirements": [],
